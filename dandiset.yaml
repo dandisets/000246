@@ -21,9 +21,9 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: analytical technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 2108455633468
-  numberOfFiles: 978
-  numberOfSubjects: 58
+  numberOfBytes: 2134855240972
+  numberOfFiles: 1027
+  numberOfSubjects: 146
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
@@ -35,7 +35,7 @@ assetsSummary:
   - PlaneSegmentation
   - ProcessingModule
   - ImagingPlane
-citation: Icardi, Jacob (2023) developing CaMPARI3 (Version draft) [Data set]. DANDI
+citation: Icardi, Jacob (2024) developing CaMPARI3 (Version draft) [Data set]. DANDI
   archive. https://doi.org/10.80507/dandi.123456/0.123456.1234
 contributor:
 - affiliation: []
@@ -46,7 +46,7 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2022-05-10T13:48:03.201306+00:00'
-datePublished: '2023-10-18T20:44:44.927837+00:00'
+datePublished: '2024-02-13T17:39:14.934663+00:00'
 description: This dataset contains in vivo and in vitro data for the development of
   CaMPARI3.
 doi: 10.80507/dandi.123456/0.123456.1234
@@ -61,13 +61,13 @@ manifestLocation:
 name: developing CaMPARI3
 protocol: []
 publishedBy:
-  endDate: '2023-10-18T20:44:44.927837+00:00'
-  id: urn:uuid:c302efc1-8b55-4b0d-a4ba-abdb31dffd54
+  endDate: '2024-02-13T17:39:14.934663+00:00'
+  id: urn:uuid:ec785853-d996-423b-b917-69de71cb685e
   name: DANDI publish
   schemaKey: PublishActivity
-  startDate: '2023-10-18T20:44:44.927837+00:00'
+  startDate: '2024-02-13T17:39:14.934663+00:00'
   wasAssociatedWith:
-  - id: urn:uuid:3757b0dd-75a5-41fb-ad20-7769bc5069f3
+  - id: urn:uuid:8681ed6a-eae9-4e6c-ab86-31493bd92428
     identifier: RRID:SCR_017571
     name: DANDI API
     schemaKey: Software
